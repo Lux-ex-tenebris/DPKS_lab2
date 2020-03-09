@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/vlad/repos/dir1/DPKS_lab2/DPKS_lab2_main.cpp
+stdio.h
+-
+stdlib.h
+-
+getopt.h
+-
+

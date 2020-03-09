@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/lab2.dir/DPKS_lab2_main.cpp.o  -o lab2 -rdynamic 
